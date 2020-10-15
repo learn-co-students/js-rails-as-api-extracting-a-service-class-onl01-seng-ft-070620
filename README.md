@@ -1,5 +1,5 @@
 # Extracting a Service Class
-
+ 
 ## Learning Goals
 
 - Remove logic from controller actions into a separate service class
